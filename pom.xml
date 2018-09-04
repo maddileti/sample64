@@ -3,7 +3,7 @@
 
     <groupId>net.distilledcode.aem.samples</groupId>
     <artifactId>aem-sample-project-build</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>AEM Sample Project :: Build</name>
